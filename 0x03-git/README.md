@@ -1,1 +1,1 @@
-You only live once
+this project is git
